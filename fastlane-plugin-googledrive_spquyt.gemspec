@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.email         = '101373375+QuocTA-Amela@users.noreply.github.com'
 
   spec.summary       = 'CRUD files and folders on Google Drive'
-  # spec.homepage      = "https://github.com/<GITHUB_USERNAME>/fastlane-plugin-googledrive_spquyt"
+  spec.homepage      = "https://github.com/SpQuyt/fastlane-plugin-googledrive_spquyt"
   spec.license       = "MIT"
 
   spec.files         = Dir["lib/**/*"] + %w(README.md LICENSE)
