@@ -26,7 +26,7 @@ Gem::Specification.new do |spec|
   spec.add_dependency('google_drive2', '~> 3', '>=3.0.9')
   spec.add_dependency('google-apis-drive_v3', '>= 0.49.0')
   spec.add_dependency('google-apis-sheets_v4', '>= 0.9.1')
-  spec.add_dependency('google-apis-core', '>= 0.14.1')
+  spec.add_dependency('google-apis-core', '>= 0.14.0')
 
   spec.add_development_dependency('bundler')
   spec.add_development_dependency('fastlane', '>= 2.210.1')
